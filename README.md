@@ -1,5 +1,5 @@
 # 💫 About Me:
-IM A DEVELOPER And Devops Enthusiast FROM INDIA
+IM A DEVELOPER And A Devops Enthusiast FROM INDIA
 
 
 ## 🌐 Socials:
