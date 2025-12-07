@@ -1,5 +1,5 @@
 # 💫 About Me:
-IM A DEVELOPER FROM INDIA
+IM A DEVELOPER And Devops Enthusiast FROM INDIA
 
 
 ## 🌐 Socials:
@@ -22,3 +22,10 @@ IM A DEVELOPER FROM INDIA
 [![](https://visitcount.itsvg.in/api?id=siddharthx29&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
