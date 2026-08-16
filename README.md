@@ -1,5 +1,5 @@
 # 💫 About Me:
- Developer And A Devops Enthusiast
+ IT professional but too lazy to make those commits green ;)
 
 
 ## 🌐 Socials:
