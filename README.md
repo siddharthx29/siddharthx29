@@ -1,5 +1,5 @@
 # 💫 About Me:
- IT professional but too lazy to make those commits green ;)
+ *IT professional but too lazy to make those commits green ;)*
 
 
 ## 🌐 Socials:
