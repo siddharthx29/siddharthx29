@@ -45,9 +45,5 @@
 
 ---
 
----
-
----
-<img src="https://komarev.com/ghpvc/?username=siddharthx29&style=flat-square" style = "size=15"  />
 
 </div>
